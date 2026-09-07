@@ -1,5 +1,6 @@
-use <polyhedra/star.scad>
-use <experimental/tri_circle_packing.scad>
+use <../../src/polyhedra/star.scad>
+use <../../src/experimental/tri_circle_packing.scad>
+
 
 star_burst_n = 5;
 min_star_r = .5;
