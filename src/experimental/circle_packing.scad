@@ -1,6 +1,8 @@
-use <experimental/tri_circle_packing.scad>
+use <../experimental/tri_circle_packing.scad>
 
-use <triangle/tri_delaunay.scad>
+use <../triangle/tri_delaunay.scad>
+
+
 
 function circle_packing(points, min_r = 1) =
     [
