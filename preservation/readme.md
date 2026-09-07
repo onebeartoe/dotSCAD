@@ -17,5 +17,13 @@ Inspiration
 That photo is from this [twitter post](
 https://x.com/caterpillar/status/1532995677219090432).  I still have not found the source code for the cicle packing vase though.
 
-The main changes I have made are listed below:
+# The main changes I have made are listed below:
 
+examples/circle_packing/star_bunny.scad
+
+
+
+## examples/circle_packing/star_bunny.scad
+    Update the 'use' statemetments to include the 'src/' path
+
+![star bunny](examples/circle_packing/star_bunny.png)
