@@ -57,3 +57,16 @@ looks okay
 
 
 
+## src/bezier_vase_II.scad
+
+This scrpt if from 
+
+    https://www.thingiverse.com/thing:1946289
+
+
+
+## examples/circle_packing/star-bezier_vase_II.scad
+
+add other 'star' exampples
+
+![Star Bezier Vase II](examples/circle_packing/star-bezier-vase-ii.png)
