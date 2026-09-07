@@ -47,4 +47,13 @@ I think this one is supposed to be 'forest'
 ![packing circles](examples/circle_packing/packing_circles.png)
 
 
-## 
+## examples/voxel_vase.scad
+
+Looks okay
+
+## examples/superformula_vase.scad
+
+looks okay
+
+
+
