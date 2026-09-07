@@ -4,6 +4,10 @@
 
 ![dotSCAD](featured_img/Owls.JPG)
 
+
+## NOTE: this is forked from Justin Lin's repository
+[See the 'Preservation' section for details on what is different in this fork.](preservation/readme.md)
+
 ## Introduction
 
 Some of my [3D models](https://github.com/JustinSDK/dotSCAD#examples) require complex mathematics/algorithm. I extract them into dotSCAD. Hope it helps when you're playing OpenSCAD.
