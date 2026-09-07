@@ -37,3 +37,14 @@ update 'use' statements
 
 ![circle packing](src/experimental/circle_packing.png)
                       
+
+## examples/circle_packing/packing_circles.scad
+
+update 'use' statements
+
+I think this one is supposed to be 'forest'
+
+![packing circles](examples/circle_packing/packing_circles.png)
+
+
+## 

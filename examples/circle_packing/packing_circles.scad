@@ -1,5 +1,7 @@
-use <util/rand.scad>
-use <experimental/circle_packing.scad>
+use <../../src/util/rand.scad>
+
+use <../../src/experimental/circle_packing.scad>
+
 
 size = [200, 100];
 min_radius = 1;
